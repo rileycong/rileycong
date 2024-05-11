@@ -40,6 +40,6 @@
 
 <p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rileycong&" alt="rileycong" /></p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="450" src="https://github-profile-trophy.vercel.app/?username=rileycong&column=4&margin-w=20" alt="rileycong" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=rileycong&column=4&margin-w=20" alt="rileycong" /></a> </p>
 <!--Github stat end-->
 
