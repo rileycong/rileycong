@@ -3,7 +3,7 @@
 <br> <!-- This adds extra space -->
 
 
-<img align="right" hspace="150" alt="Coding" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png">
+<img align="right" hspace="120" alt="Coding" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png">
 
 <!--Intro start-->
 - 👩‍💻 I'm working as a Data Engineer Intern at [WINR Data](https://www.winrdata.com/)
