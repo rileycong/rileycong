@@ -38,11 +38,8 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rileycong&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="rileycong" /></p>
 
-<br> <!-- This adds extra space -->
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rileycong&" alt="rileycong" /></p>
 
-
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileycong&column=4&margin-w=20" alt="rileycong" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileycong&column=4&margin-w=20" alt="rileycong" /></a> </p>
 <!--Github stat end-->
 
