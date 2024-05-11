@@ -40,6 +40,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rileycong&" alt="rileycong" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileycong&column=4&margin-w=20" alt="rileycong" /></a> </p>
+<br> <!-- This adds extra space -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileycong&column=8&margin-w=20" alt="rileycong" /></a> </p>
 <!--Github stat end-->
 
