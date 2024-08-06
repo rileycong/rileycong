@@ -6,7 +6,7 @@
 <img align="right" hspace="120" alt="Coding" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png">
 
 <!--Intro start-->
-- 👩‍💻 I'm working as a Data Engineer Intern at [WINR Data](https://www.winrdata.com/)
+- 👩‍💻 I'm a Business Analytics Student at Macquarie University
 - 🌱 I'm learning about Batch Processing and Machine Learning
 - 📫 Feel free to reach me out on LinkedIn [Chau Anh Cong](https://www.linkedin.com/in/rileycong/)
 <!--Intro end-->
