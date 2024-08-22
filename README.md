@@ -26,12 +26,6 @@
 <p><img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <!--Tech end-->
 
-<!--Github stat start-->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <br> <!-- This adds extra space -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rileycong&show_icons=true&locale=en&layout=compact" alt="rileycong" /></p>
