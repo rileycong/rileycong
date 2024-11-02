@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,java,git,docker,mysql,postgres,vscode,linux,gcp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,r,java,git,docker,postgres,vscode,linux,gcp,aws&perline=14" />
   </a>
 </p>
 
