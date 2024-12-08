@@ -32,8 +32,8 @@
 
 <p> <img align="rig" src="https://github-readme-stats.vercel.app/api?username=rileycong&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="rileycong" /></p>
 
-<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rileycong&" alt="rileycong" /></p>
+<p><img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=rileycong&" alt="rileycong" /></p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="420" src="https://github-profile-trophy.vercel.app/?username=rileycong&column=4&margin-w=20" alt="rileycong" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=rileycong&column=5&margin-w=20" alt="rileycong" /></a> </p>
 <!--Github stat end-->
 
