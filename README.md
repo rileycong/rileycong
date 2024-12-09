@@ -7,7 +7,7 @@
 
 <!--Intro start-->
 - 👩‍💻 I'm a Business Analytics Student at Macquarie University
-- 🌱 I'm learning about Batch Processing and Machine Learning
+- 🌱 I'm learning Data Engineering and Machine Learning
 - 📫 Feel free to reach me out on LinkedIn [Chau Anh Cong](https://www.linkedin.com/in/rileycong/)
 <!--Intro end-->
 
