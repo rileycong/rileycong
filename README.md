@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, this is Chau Anh</h1>
-<h3 align="center">A Data Student in Sydney</h3>
+<h3 align="center">A Data Something-ist in Sydney</h3>
 <br> <!-- This adds extra space -->
 
 
 <img align="right" hspace="120" alt="Coding" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png">
 
 <!--Intro start-->
-- 👩‍💻 I'm a Business Analytics Student at Macquarie University
-- 🌱 I'm learning Data Engineering and Machine Learning
+- 👩‍💻 I'm a Data Consultant from 9 to 5
+- 🌱 And a hobbyist AI builder from 5 to 9
 - 📫 Feel free to reach me out on LinkedIn [Chau Anh Cong](https://www.linkedin.com/in/rileycong/)
 <!--Intro end-->
 
